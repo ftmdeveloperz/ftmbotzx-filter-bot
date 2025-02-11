@@ -10,12 +10,12 @@ class script(object):
 
     ABOUT_TXT = """<b>╭────[ ᴍʏ ᴅᴇᴛᴀɪʟs ]────⍟
 ├⍟ Mʏ Nᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
-├⍟ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href={}>ᴏᴡɴᴇʀ</a> 
+├⍟ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href={}>Fᴛᴍ Dᴇᴠᴇʟᴏᴘᴇʀᴢ</a> 
 ├⍟ Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
 ├⍟ Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 𝟹</a> 
 ├⍟ Dᴀᴛᴀʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
 ├⍟ Bᴏᴛ Sᴇʀᴠᴇʀ : <a href='https://heroku.com/'>ʜᴇʀᴏᴋᴜ</a> 
-├⍟ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ4.8 [ ꜱᴛᴀʙʟᴇ ]
+├⍟ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ5.8 [ ʟᴀᴛᴇsᴛ ]
 ╰───────────────⍟</b>"""
         
     CHANNELS = """
